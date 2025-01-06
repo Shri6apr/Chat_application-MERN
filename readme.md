@@ -1,7 +1,7 @@
 # Project Title
 ## Subtitle or Section
 ### Subsection
-```inline
+`inline`
 '''js
 npm 
 '''
